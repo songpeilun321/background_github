@@ -23,6 +23,6 @@ pro_host_port: 9877
 
 
 # Jenkins账号密码
-pro_jenk_host: http://10.4.1.61:10240
+pro_jenk_host: http://10.4.1.61:10240/
 pro_jenk_name: admin
 pro_jenk_pass: admin
