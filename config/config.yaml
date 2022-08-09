@@ -1,0 +1,28 @@
+# 项目配置文件信息
+env: pro
+
+# MySql数据库信息（test本地数据库 pro测试数据库212）
+pro_host: 10.4.1.61
+pro_port: 3306
+pro_user: root
+pro_passwd: root
+pro_library: storedcase
+
+
+# Redis数据库缓存
+pro_redis_host: 10.4.1.61
+pro_redis_port: 6379
+pro_redis_db: 11
+pro_redis_pwd: root
+
+
+# flask启动服务地址
+pro_debug: True
+pro_host_ip: 0.0.0.0
+pro_host_port: 9876
+
+
+# Jenkins账号密码
+pro_jenk_host: http://10.4.1.61/login
+pro_jenk_name: admin
+pro_jenk_pass: admin

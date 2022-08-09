@@ -1,0 +1,190 @@
+[2022-05-27 10:08:58,011] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:08:58,029] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:08:58,030] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:08:58,030] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:08:58,030] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:08:58,031] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test'
+[2022-05-27 10:08:58,042] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【test】项目下用例
+[2022-05-27 10:08:58,042] - log.py] - INFO: 项目【test】已存在!
+[2022-05-27 10:14:35,226] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:14:35,239] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:14:35,239] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:14:35,239] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:14:35,240] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:14:35,242] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test'
+[2022-05-27 10:14:35,256] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【test】项目下用例
+[2022-05-27 10:14:35,256] - log.py] - INFO: 项目【test】已存在!
+[2022-05-27 10:14:43,031] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:14:43,044] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:14:43,045] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:14:43,045] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:14:43,045] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:14:43,046] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test1'
+[2022-05-27 10:14:43,059] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【False】项目下用例
+[2022-05-27 10:14:43,059] - log.py] - INFO: INSERT INTO `Project`(`name`,`jobnanme`) values ('储能管家2.0（云端）', 'test1')
+[2022-05-27 10:16:11,061] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:16:11,079] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:16:11,080] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:16:11,080] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:16:11,081] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:16:11,083] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test1'
+[2022-05-27 10:16:11,097] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【test1】项目下用例
+[2022-05-27 10:16:11,098] - log.py] - INFO: 项目【test1】已存在!
+[2022-05-27 10:16:13,737] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:16:13,750] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:16:13,751] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:16:13,751] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:16:13,751] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:16:13,752] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test1'
+[2022-05-27 10:16:13,763] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【test1】项目下用例
+[2022-05-27 10:16:13,767] - log.py] - INFO: 项目【test1】已存在!
+[2022-05-27 10:16:26,139] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:16:26,151] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:16:26,151] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:16:26,152] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:16:26,152] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:16:26,153] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test1'
+[2022-05-27 10:16:26,164] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【False】项目下用例
+[2022-05-27 10:16:26,165] - log.py] - INFO: INSERT INTO `Project`(`name`,`jobnanme`) values ('储能管家2.0（云端）', 'test1')
+[2022-05-27 10:18:03,628] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:18:03,638] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:18:03,638] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:18:03,639] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:18:03,639] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:18:03,641] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test2'
+[2022-05-27 10:18:03,653] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【False】项目下用例
+[2022-05-27 10:18:03,653] - log.py] - INFO: INSERT INTO `Project`(`name`,`jobnanme`) values ('储能管家2.0（云端）', 'test2')
+[2022-05-27 10:18:03,668] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'新增项目【False】')
+[2022-05-27 10:18:12,992] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:18:13,006] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:18:13,006] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:18:13,007] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:18:13,007] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:18:13,008] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test3'
+[2022-05-27 10:18:13,017] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【False】项目下用例
+[2022-05-27 10:18:13,017] - log.py] - INFO: INSERT INTO `Project`(`name`,`jobnanme`) values ('储能管家2.0（云端）', 'test3')
+[2022-05-27 10:18:13,038] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'新增项目【False】')
+[2022-05-27 10:18:58,915] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:18:58,936] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:18:58,937] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:18:58,937] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:18:58,937] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:18:58,939] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test3'
+[2022-05-27 10:18:58,955] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【test3】项目下用例
+[2022-05-27 10:18:58,956] - log.py] - INFO: 项目【test3】已存在!
+[2022-05-27 10:19:18,938] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:19:18,951] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:19:18,951] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:19:18,951] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:19:18,952] - log.py] - DEBUG: /api/project/addproject
+[2022-05-27 10:19:18,952] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test4'
+[2022-05-27 10:19:18,972] - log.py] - INFO: 输入项目名称【储能管家2.0（云端）】执行该【False】项目下用例
+[2022-05-27 10:19:18,973] - log.py] - INFO: INSERT INTO `Project`(`name`,`jobnanme`) values ('储能管家2.0（云端）', 'test4')
+[2022-05-27 10:19:18,987] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'新增项目【test4】')
+[2022-05-27 10:24:50,907] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:24:50,922] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:24:50,922] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:24:50,923] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:24:50,923] - log.py] - DEBUG: /api/project/alterproject
+[2022-05-27 10:24:50,924] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test4'
+[2022-05-27 10:24:50,935] - log.py] - INFO: 项目【test4】已存在!
+[2022-05-27 10:24:52,354] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:24:52,368] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:24:52,369] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:24:52,369] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:24:52,369] - log.py] - DEBUG: /api/project/alterproject
+[2022-05-27 10:24:52,373] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test4'
+[2022-05-27 10:24:52,390] - log.py] - INFO: 项目【test4】已存在!
+[2022-05-27 10:24:59,001] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 10:24:59,020] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:24:59,021] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 10:24:59,021] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 10:24:59,021] - log.py] - DEBUG: /api/project/alterproject
+[2022-05-27 10:24:59,021] - log.py] - INFO: SELECT jobnanme FROM `Project` WHERE `jobnanme`= 'test32'
+[2022-05-27 10:24:59,036] - log.py] - INFO: 修改项目cid【76】名称改为【test32】
+[2022-05-27 10:24:59,037] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'修改项目cid->[76]的数据,名称改为->[test32]')
+[2022-05-27 10:24:59,054] - log.py] - INFO: UPDATE `Project` set name = '7711177',jobnanme = 'test32' where cid = 76
+[2022-05-27 14:11:04,223] - log.py] - DEBUG: /api/user/login
+[2022-05-27 14:11:04,997] - log.py] - INFO: SELECT id, username, password, designation, is_disable FROM `storedcase`.`Users` WHERE `username` = 'admin'
+[2022-05-27 14:11:05,020] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'登录成功')
+[2022-05-27 14:11:05,037] - log.py] - INFO: 用户: 【admin】 登录成功! Token:【MzEgYWRtaW4gcGJrZGYyOnNoYTI1NjoyNjAwMDAkSmtuNzd2NTZDNktuekdHbiRjMjQ3NDA3MGY1ZjUzZTc0MDhjNGNmODBhZmQ5YTc0NGZiYjkwNmZjNjcyMjQ5NGZkM2NmYmE2MzM4OTcyODA2IGFkbWlu】
+[2022-05-27 14:16:53,153] - log.py] - DEBUG: /api/user/login
+[2022-05-27 14:16:53,928] - log.py] - INFO: SELECT id, username, password, designation, is_disable FROM `storedcase`.`Users` WHERE `username` = 'admin'
+[2022-05-27 14:16:53,941] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'登录成功')
+[2022-05-27 14:16:53,953] - log.py] - INFO: 用户: 【admin】 登录成功! Token:【MzEgYWRtaW4gcGJrZGYyOnNoYTI1NjoyNjAwMDAkSmtuNzd2NTZDNktuekdHbiRjMjQ3NDA3MGY1ZjUzZTc0MDhjNGNmODBhZmQ5YTc0NGZiYjkwNmZjNjcyMjQ5NGZkM2NmYmE2MzM4OTcyODA2IGFkbWlu】
+[2022-05-27 14:17:38,523] - log.py] - DEBUG: /api/user/login
+[2022-05-27 14:17:39,286] - log.py] - INFO: SELECT id, username, password, designation, is_disable FROM `storedcase`.`Users` WHERE `username` = 'admin'
+[2022-05-27 14:17:39,299] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'登录成功')
+[2022-05-27 14:17:39,314] - log.py] - INFO: 用户: 【admin】 登录成功! Token:【MzEgYWRtaW4gcGJrZGYyOnNoYTI1NjoyNjAwMDAkSmtuNzd2NTZDNktuekdHbiRjMjQ3NDA3MGY1ZjUzZTc0MDhjNGNmODBhZmQ5YTc0NGZiYjkwNmZjNjcyMjQ5NGZkM2NmYmE2MzM4OTcyODA2IGFkbWlu】
+[2022-05-27 14:18:41,900] - log.py] - DEBUG: /api/user/login
+[2022-05-27 14:18:42,665] - log.py] - INFO: SELECT id, username, password, designation, is_disable FROM `storedcase`.`Users` WHERE `username` = 'admin'
+[2022-05-27 14:18:42,681] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'登录成功')
+[2022-05-27 14:18:42,698] - log.py] - INFO: 用户: 【admin】 登录成功! Token:【MzEgYWRtaW4gcGJrZGYyOnNoYTI1NjoyNjAwMDAkSmtuNzd2NTZDNktuekdHbiRjMjQ3NDA3MGY1ZjUzZTc0MDhjNGNmODBhZmQ5YTc0NGZiYjkwNmZjNjcyMjQ5NGZkM2NmYmE2MzM4OTcyODA2IGFkbWlu】
+[2022-05-27 14:19:03,810] - log.py] - DEBUG: /api/user/login
+[2022-05-27 14:19:04,616] - log.py] - INFO: SELECT id, username, password, designation, is_disable FROM `storedcase`.`Users` WHERE `username` = 'admin'
+[2022-05-27 14:19:04,659] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'登录成功')
+[2022-05-27 14:19:04,707] - log.py] - INFO: 用户: 【admin】 登录成功! Token:【MzEgYWRtaW4gcGJrZGYyOnNoYTI1NjoyNjAwMDAkSmtuNzd2NTZDNktuekdHbiRjMjQ3NDA3MGY1ZjUzZTc0MDhjNGNmODBhZmQ5YTc0NGZiYjkwNmZjNjcyMjQ5NGZkM2NmYmE2MzM4OTcyODA2IGFkbWlu】
+[2022-05-27 14:19:48,894] - log.py] - DEBUG: /api/user/login
+[2022-05-27 14:19:49,640] - log.py] - INFO: SELECT id, username, password, designation, is_disable FROM `storedcase`.`Users` WHERE `username` = 'admin'
+[2022-05-27 14:19:49,661] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'登录成功')
+[2022-05-27 14:19:49,677] - log.py] - INFO: 用户: 【admin】 登录成功! Token:【MzEgYWRtaW4gcGJrZGYyOnNoYTI1NjoyNjAwMDAkSmtuNzd2NTZDNktuekdHbiRjMjQ3NDA3MGY1ZjUzZTc0MDhjNGNmODBhZmQ5YTc0NGZiYjkwNmZjNjcyMjQ5NGZkM2NmYmE2MzM4OTcyODA2IGFkbWlu】
+[2022-05-27 14:21:09,473] - log.py] - DEBUG: /api/user/login
+[2022-05-27 14:21:10,261] - log.py] - INFO: SELECT id, username, password, designation, is_disable FROM `storedcase`.`Users` WHERE `username` = 'admin'
+[2022-05-27 14:21:10,299] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'登录成功')
+[2022-05-27 14:21:10,339] - log.py] - INFO: 用户: 【admin】 登录成功! Token:【MzEgYWRtaW4gcGJrZGYyOnNoYTI1NjoyNjAwMDAkSmtuNzd2NTZDNktuekdHbiRjMjQ3NDA3MGY1ZjUzZTc0MDhjNGNmODBhZmQ5YTc0NGZiYjkwNmZjNjcyMjQ5NGZkM2NmYmE2MzM4OTcyODA2IGFkbWlu】
+[2022-05-27 14:52:55,274] - log.py] - DEBUG: /api/user/login
+[2022-05-27 14:54:04,722] - log.py] - DEBUG: /api/user/login
+[2022-05-27 15:05:47,968] - log.py] - DEBUG: /api/user/login
+[2022-05-27 15:05:48,479] - log.py] - INFO: SELECT id, username, password, designation, is_disable FROM `storedcase`.`Users` WHERE `username` = 'admin'
+[2022-05-27 15:05:48,499] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'登录成功')
+[2022-05-27 15:05:48,510] - log.py] - INFO: 用户: 【admin】 登录成功! Token:【MzEgYWRtaW4gcGJrZGYyOnNoYTI1NjoyNjAwMDAkSmtuNzd2NTZDNktuekdHbiRjMjQ3NDA3MGY1ZjUzZTc0MDhjNGNmODBhZmQ5YTc0NGZiYjkwNmZjNjcyMjQ5NGZkM2NmYmE2MzM4OTcyODA2IGFkbWlu】
+[2022-05-27 15:17:00,882] - log.py] - DEBUG: /api/user/login
+[2022-05-27 15:17:01,607] - log.py] - INFO: SELECT id, username, password, designation, is_disable FROM `storedcase`.`Users` WHERE `username` = 'admin'
+[2022-05-27 15:17:01,637] - log.py] - INFO: INSERT INTO `operation_log`(`operator_id`,`operator_name`,`operation_content`) value (31 ,'admin' ,'登录成功')
+[2022-05-27 15:17:01,687] - log.py] - INFO: 用户: 【admin】 登录成功! Token:【MzEgYWRtaW4gcGJrZGYyOnNoYTI1NjoyNjAwMDAkSmtuNzd2NTZDNktuekdHbiRjMjQ3NDA3MGY1ZjUzZTc0MDhjNGNmODBhZmQ5YTc0NGZiYjkwNmZjNjcyMjQ5NGZkM2NmYmE2MzM4OTcyODA2IGFkbWlu】
+[2022-05-27 15:17:42,760] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 15:19:11,741] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:19:13,200] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:19:13,883] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:19:13,884] - log.py] - DEBUG: /api/case/allCase
+[2022-05-27 15:20:04,420] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 15:20:21,016] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:23:16,909] - log.py] - DEBUG: /api/case/allCase
+[2022-05-27 15:23:34,436] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:23:34,437] - log.py] - DEBUG: /api/case/allCase
+[2022-05-27 15:30:29,764] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:31:39,684] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 15:33:44,876] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:34:01,904] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:34:04,624] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:34:35,226] - log.py] - DEBUG: /api/case/allCase
+[2022-05-27 15:36:01,155] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 15:36:01,166] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:36:01,167] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:36:01,168] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:36:01,168] - log.py] - DEBUG: /api/case/allCase
+[2022-05-27 15:44:10,569] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:44:10,570] - log.py] - DEBUG: /api/case/allCase
+[2022-05-27 15:49:01,177] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:49:27,563] - log.py] - DEBUG: /api/case/allCase
+[2022-05-27 15:51:01,771] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 15:51:01,786] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:51:01,787] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:51:01,788] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:51:01,789] - log.py] - DEBUG: /api/case/allCase
+[2022-05-27 15:51:12,800] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 15:51:12,837] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:51:12,837] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:51:12,838] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:51:23,474] - log.py] - DEBUG: /api/case/allCase
+[2022-05-27 15:55:22,130] - log.py] - INFO: SELECT * FROM `Users`
+[2022-05-27 15:55:22,144] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:55:22,145] - log.py] - DEBUG: 信息验证失败!
+[2022-05-27 15:55:22,145] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:55:24,088] - log.py] - DEBUG: /api/case/SearchTypeList
+[2022-05-27 15:55:24,089] - log.py] - INFO: SELECT * FROM `CaseType`
+[2022-05-27 15:55:24,135] - log.py] - INFO: 获取的用例类型数据【[{'id': 1, 'type': 'title', 'title': '用例名称'}, {'id': 2, 'type': 'url', 'title': '接口地址'}, {'id': 3, 'type': 'judge', 'title': '逻辑判断 Judge'}, {'id': 4, 'type': 'remark', 'title': '备注信息'}, {'id': 5, 'type': 'assert', 'title': '状态码'}, {'id': 6, 'type': 'leve', 'title': '运行等级'}]】
+[2022-05-27 15:56:12,159] - log.py] - DEBUG: 信息验证成功!
+[2022-05-27 15:56:12,160] - log.py] - DEBUG: /api/case/SearchTypeList
+[2022-05-27 15:56:12,161] - log.py] - INFO: SELECT * FROM `CaseType`
+[2022-05-27 15:56:12,178] - log.py] - INFO: 获取的用例类型数据【[{'id': 1, 'type': 'title', 'title': '用例名称'}, {'id': 2, 'type': 'url', 'title': '接口地址'}, {'id': 3, 'type': 'judge', 'title': '逻辑判断 Judge'}, {'id': 4, 'type': 'remark', 'title': '备注信息'}, {'id': 5, 'type': 'assert', 'title': '状态码'}, {'id': 6, 'type': 'leve', 'title': '运行等级'}]】
