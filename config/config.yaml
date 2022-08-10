@@ -18,7 +18,7 @@ pro_redis_pwd: root
 
 # flask启动服务地址
 pro_debug: True
-pro_host_ip: 10.4.1.61
+pro_host_ip: 0.0.0.0
 pro_host_port: 9876
 
 
